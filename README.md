@@ -1,6 +1,6 @@
-<!-- Animated Header Wave -->
+<!-- Custom Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GERALD%20VARGAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50&desc=STUDENT%20INFORMATIC%20ENGINEER%20%7C%20UMSS&descSize=15&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=GERALD%20VARGAS&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Informatic%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55&descAlign=50"/>
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -11,10 +11,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<!-- 3D Retro Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=400&lines=%E2%96%BC+ABOUT+ME+%E2%96%BC" alt="About Title" />
-</p>
+<h3 align="center">About Me</h3>
 
 <img align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="100%"/>
 
@@ -23,7 +20,7 @@
 
 <br>
 
-```js
+```javascript
 const gerald = {
     role: "Full Stack Developer",
     location: "Cochabamba, Bolivia",
@@ -31,12 +28,13 @@ const gerald = {
     skills: ["Laravel", "Flutter", "React",
              "Python", "Node.js", "AI/ML"],
     currentWork: "Electoral Systems",
-    passion: "Building Smart Solutions"
+    passion: "Building Smart Solutions",
+    contact: "202405633@est.umss.edu"
 };
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Data+Analyst;AI+%26+ML+Engineer;n8n+Automation+Expert" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Data+Analyst;AI+%26+ML+Engineer;n8n+Automation+Expert" alt="Roles" />
 </p>
 
 </td>
@@ -47,9 +45,7 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Snake Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=500&lines=%E2%96%BC+CONTRIBUTION+SNAKE+%E2%96%BC" alt="Snake Title" />
-</p>
+<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -61,9 +57,7 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Stack Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%96%BC+TECH+STACK+%E2%96%BC" alt="Tech Stack Title" />
-</p>
+<h3 align="center">Tech Stack</h3>
 
 <!-- Animated Tech Icons -->
 <div align="center">
@@ -91,49 +85,37 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Languages and Tools -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF00FF&center=true&vCenter=true&width=600&lines=%E2%96%BC+LANGUAGES+AND+TOOLS+%E2%96%BC" alt="Tools Title" />
-</p>
+<h3 align="center">Languages and Tools</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&width=200&lines=%3E+BACKEND" alt="Backend" />
-</p>
+<h4 align="center">Backend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,php,laravel,nodejs,express,haskell,cpp" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=200&lines=%3E+FRONTEND" alt="Frontend" />
-</p>
+<h4 align="center">Frontend</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,js,html,css,tailwind" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&width=300&lines=%3E+DATA+SCIENCE+%26+ML" alt="Data Science" />
-</p>
+<h4 align="center">Data Science & ML</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=200&lines=%3E+DATABASE" alt="Database" />
-</p>
+<h4 align="center">Database</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=9745F5&center=true&vCenter=true&width=200&lines=%3E+TOOLS" alt="Tools" />
-</p>
+<h4 align="center">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,figma,postman" />
@@ -146,18 +128,16 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Achievements -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=500&lines=%E2%96%BC+ACHIEVEMENTS+%E2%96%BC" alt="Achievements Title" />
-</p>
+<h3 align="center">Achievements</h3>
 
 <div align="center">
 
-| Achievement | Description |
-|:---:|:---|
-| **ICPC** | Rank #18 at ICPC Cochabamba (First competition) |
-| **Electoral System** | Curricular Value Certification |
-| **n8n Automation** | +6,500 automated records |
-| **Deep Learning** | 94.2% accuracy fraud detection system |
+| | Achievement | Description |
+|:---:|:---|:---|
+| :trophy: | **ICPC Cochabamba** | Rank #18 (First competition) |
+| :mortar_board: | **Electoral System** | Curricular Value Certification |
+| :robot: | **n8n Automation** | +6,500 automated records |
+| :brain: | **Deep Learning** | 94.2% accuracy fraud detection |
 
 </div>
 
@@ -167,21 +147,45 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Experience -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FF4081&center=true&vCenter=true&width=600&lines=%E2%96%BC+PROFESSIONAL+EXPERIENCE+%E2%96%BC" alt="Experience Title" />
-</p>
+<h3 align="center">Professional Experience</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%3E+Backend+Developer+-+Electoral+Ballot+System;%3E+Colcapirhua+Subnational+Elections+%7C+2026;%3E+RESTful+APIs+with+Laravel+12;%3E+Security+and+authentication+modules" alt="Experience 1" />
-</p>
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%3E+Full+Stack+Developer+-+Electoral+System;%3E+Cochabamba+Subnational+Elections+%7C+2025-2026;%3E+React+%2B+Node.js%2FExpress;%3E+Real-time+results+visualization" alt="Experience 2" />
-</p>
+**Backend Developer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=999999&color=FF6347&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%3E+Internship+-+Full+Stack+Developer;%3E+Municipal+Government+of+Colcapirhua+%7C+2026;%3E+Flutter+3.41+%2B+Laravel+11;%3E+Mobility+app+and+institutional+websites" alt="Experience 3" />
-</p>
+Electoral Ballot System
+
+*Colcapirhua 2026*
+
+`Laravel 12` `APIs` `Security`
+
+</td>
+<td width="33%" align="center">
+
+**Full Stack Developer**
+
+Electoral System
+
+*Cochabamba 2025-2026*
+
+`React` `Node.js` `Express`
+
+</td>
+<td width="33%" align="center">
+
+**Internship**
+
+Municipal Government
+
+*Colcapirhua 2026*
+
+`Flutter` `Laravel 11`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -189,17 +193,15 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%96%BC+GITHUB+STATS+%E2%96%BC" alt="Stats Title" />
-</p>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
-![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraldVargas&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117)
+![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraldVargas&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GeraldVargas&theme=midnight-purple&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeraldVargas&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldVargas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&langs_count=10)](https://github.com/GeraldVargas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldVargas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10)](https://github.com/GeraldVargas)
 
 </div>
 
@@ -209,12 +211,10 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Activity Graph -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%96%BC+ACTIVITY+GRAPH+%E2%96%BC" alt="Activity Title" />
-</p>
+<h3 align="center">Activity Graph</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldVargas&custom_title=Gerald%20Vargas%20-%20Informatic%20Engineer&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldVargas&custom_title=Gerald%20Vargas%20-%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=00d9ff&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br>
@@ -223,22 +223,20 @@ const gerald = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=500&lines=%E2%96%BC+CONNECT+WITH+ME+%E2%96%BC" alt="Connect Title" />
-</p>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
-<a href="mailto:202405633@est.umss.edu" target="blank">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+<a href="mailto:202405633@est.umss.edu">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/gerald-emanuel-vargas-morales-42b444" target="blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<a href="https://www.linkedin.com/in/gerald-emanuel-vargas-morales-42b444">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/GeraldVargas" target="blank">
-  <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<a href="https://github.com/GeraldVargas">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="tel:+59176476507" target="blank">
-  <img src="https://img.shields.io/badge/PHONE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone" />
+<a href="tel:+59176476507">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
 
@@ -249,11 +247,11 @@ const gerald = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GeraldVargas&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=GeraldVargas&color=blueviolet&style=for-the-badge" />
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -261,5 +259,5 @@ const gerald = {
 
 <!-- Animated Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 </div>
