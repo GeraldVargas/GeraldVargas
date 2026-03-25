@@ -173,7 +173,7 @@ const gerald = {
 
 | | Achievement | Description |
 |:---:|:---|:---|
-| | **ICPC Cochabamba** | Rank #18 (First competition) |
+| | **ICPC Cochabamba** | Rank #17 (First competition) |
 | | **Electoral System** | Curricular Value Certification |
 | | **n8n Automation** | +6,500 automated records |
 | | **Deep Learning** | 94.2% accuracy fraud detection |
