@@ -42,7 +42,7 @@ const gerald = {
              "Python", "Node.js", "AI/ML"],
     currentWork: "Electoral Systems",
     passion: "Building Smart Solutions",
-    contact: "202405633@est.umss.edu"
+    contact: "geraldemanuelvargasmorales@gmail.com"
 };
 ```
 
@@ -104,21 +104,15 @@ const gerald = {
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/202405633">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://vjudge.net/user/GeraldVargas">
-  <img src="https://img.shields.io/badge/VJudge-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="VJudge" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <!-- Codeforces Stats Card -->
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=202405633&theme=tokyonight&force_username=true&border_color=00d9ff" alt="Codeforces Stats" />
+<a href="https://codeforces.com/profile/202405633">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=202405633&theme=tokyonight&force_username=true&border_color=00d9ff" alt="Codeforces Stats" />
+</a>
+
+<!-- VJudge Stats Card -->
+<a href="https://vjudge.net/user/GeraldVargas">
+  <img src="https://vjudge-readme-stats.vercel.app/api?username=GeraldVargas&theme=tokyonight&border_color=00d9ff" alt="VJudge Stats" />
+</a>
 
 </div>
 
@@ -203,7 +197,7 @@ const gerald = {
 
 | | Achievement | Description |
 |:---:|:---|:---|
-| | **ICPC Cochabamba** | Rank #18 (First competition) |
+| | **ICPC Cochabamba** | Rank #17 (First competition) |
 | | **Electoral System** | Curricular Value Certification |
 | | **n8n Automation** | +6,500 automated records |
 | | **Deep Learning** | 94.2% accuracy fraud detection |
@@ -303,7 +297,7 @@ Municipal Government
 </h3>
 
 <p align="center">
-<a href="mailto:202405633@est.umss.edu">
+<a href="mailto:geraldemanuelvargasmorales@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gerald-emanuel-vargas-morales-42b44332a/">
