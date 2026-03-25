@@ -42,7 +42,7 @@ const gerald = {
              "Python", "Node.js", "AI/ML"],
     currentWork: "Electoral Systems",
     passion: "Building Smart Solutions",
-    contact: "202405633@est.umss.edu"
+    contact: "geraldemanuelvargasmorales@gmail.com"
 };
 ```
 
@@ -273,7 +273,7 @@ Municipal Government
 </h3>
 
 <p align="center">
-<a href="mailto:202405633@est.umss.edu">
+<a href="mailto:geraldemanuelvargasmorales@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/gerald-emanuel-vargas-morales-42b44332a/">
