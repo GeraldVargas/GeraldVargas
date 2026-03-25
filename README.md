@@ -97,6 +97,36 @@ const gerald = {
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Competitive Programming Section -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=35&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Competitive+Programming" alt="Competitive Programming" />
+</h3>
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/202405633">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+<a href="https://vjudge.net/user/GeraldVargas">
+  <img src="https://img.shields.io/badge/VJudge-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="VJudge" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Codeforces Stats Card -->
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=202405633&theme=tokyonight&force_username=true&border_color=00d9ff" alt="Codeforces Stats" />
+
+</div>
+
+<br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Languages and Tools -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=35&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=500&lines=Languages+and+Tools" alt="Languages and Tools" />
