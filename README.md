@@ -152,9 +152,11 @@ const gerald = {
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Certificate Image -->
+<!-- MasterHead GIF -->
 <div align="center">
-  <img src="./geraldgit.png" width="80%" alt="Certificate" />
+  <a href="https://arjuncvinod.github.io">
+    <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" alt="MasterHead" />
+  </a>
 </div>
 
 <br>
@@ -274,16 +276,23 @@ Municipal Government
 <a href="mailto:202405633@est.umss.edu">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/gerald-emanuel-vargas-morales-42b444">
+<a href="https://www.linkedin.com/in/gerald-emanuel-vargas-morales-42b44332a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/GeraldVargas">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="tel:+59176476507">
+<a href="https://wa.me/5917647507">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
+
+<br>
+
+<!-- Gerald Image -->
+<div align="center">
+  <img src="./geraldgit.png" width="60%" alt="Gerald Vargas" />
+</div>
 
 <br>
 
