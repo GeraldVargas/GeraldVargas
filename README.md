@@ -102,19 +102,14 @@ const gerald = {
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=35&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Competitive+Programming" alt="Competitive Programming" />
 </h3>
 
-<div align="center">
-
-<!-- Codeforces Stats Card -->
+<p align="center">
 <a href="https://codeforces.com/profile/202405633">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=202405633&theme=tokyonight&force_username=true&border_color=00d9ff" alt="Codeforces Stats" />
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
 </a>
-
-<!-- VJudge Stats Card -->
 <a href="https://vjudge.net/user/GeraldVargas">
-  <img src="https://vjudge-readme-stats.vercel.app/api?username=GeraldVargas&theme=tokyonight&border_color=00d9ff" alt="VJudge Stats" />
+  <img src="https://img.shields.io/badge/VJudge-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" alt="VJudge" />
 </a>
-
-</div>
+</p>
 
 <br>
 
